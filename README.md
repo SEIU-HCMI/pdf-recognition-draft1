@@ -11,6 +11,7 @@ Analyzes cards or forms downloaded from VAN as PDFs. Assuming two signature boxe
 ### Dependencies
 
 * Python 3.12.3 (latest)
+* [uv](https://docs.astral.sh/uv/getting-started/installation/)
 * Bash Command Line
 
 ### Installing
