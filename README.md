@@ -10,8 +10,8 @@ Analyzes cards or forms downloaded from VAN as PDFs. Assuming two signature boxe
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Python 3.12.3 (latest)
+* Bash Command Line
 
 ### Installing
 
